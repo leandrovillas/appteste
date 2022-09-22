@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'app-lvillas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_016A9716DB2849B69D7E6B2B25544CE3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_088247D47B4D4B7496B6F7E7D6A30045 }}
           package: .
